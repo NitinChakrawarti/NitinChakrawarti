@@ -13,7 +13,7 @@ You can click the Preview link to take a look at your changes.
 
 
 # 💫 About Me:
-I'm currently learning full-stack development <br>I'm a react developer <br>I'm a 1st year student 
+I'm currently learning full-stack development <br>I'm a react developer <br>I'm a 2nd year student 
 
 
 ## 🌐 Socials:
