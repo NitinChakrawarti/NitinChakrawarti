@@ -7,8 +7,8 @@
 <!-- About Me -->
 ## <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width="50px"> **About Me**
 - 👋 Hi, I’m @NitinChakrawarti
-- 👀 I’m interested in New Tech Domains
-- 🌱 I’m currently learning Full Stack Development
+- 👀 MERN Stack developer
+- 🌱 Web3 enthusiast
 - 💞️ I’m looking to collaborate on New Projects
 - 📫 How to reach me NitinChakrawarti04@gmail.com 
 - 😄 Pronouns: He/His
