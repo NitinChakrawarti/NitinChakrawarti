@@ -1,6 +1,17 @@
+<!-- Header with narrower, two-line typing SVGs -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&width=600&lines=Hey+%F0%9F%91%8B%2C+I'm+Nitin+Chakrawarti;Full+Stack+Developer+%7C+Web3+%7C+Cloud+%7C+Next.js;Passionate+about+Learning+and+Building" alt="Typing SVG" />
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&center=true&vCenter=true&width=450&lines=Hey+👋+I%27m+Nitin+Chakrawarti"
+    alt="Typing SVG line 1"
+  />
 </h1>
+<h2 align="center">
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&center=true&vCenter=true&width=450&lines=Full+Stack+|+Web3+|+Cloud+|+Next.js;Always+Building+and+Learning"
+    alt="Typing SVG line 2"
+  />
+</h2>
+
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" />
