@@ -37,9 +37,18 @@ const nitin = {
 
 ### 🛠️ Tech Toolbox
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,kotlin,react,nextjs,tailwind,html,css,nodejs,express,mongodb,git,github,figma,aws,vite" />
-</p>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=js,kotlin,react,nextjs,tailwind,html,css,nodejs,express,git,github,figma,aws,vite,graphql,docker,kubernetes,cpp,c,mysql" />
+</div>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" />
+  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB_Atlas-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white" />
+</div>
 
 ---
 
