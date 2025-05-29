@@ -14,10 +14,10 @@
 ## <div align="center">🎯 **ABOUT ME**</div>
 
 ```javascript
-const nitin = {
+let nitin = {
     role: "Full Stack Developer",
     focus: ["Web Development", "Web3", "Cloud Architecture"],
-    currentlyLearning: "Advanced System Design",
+    currentlyLearning: "Cloud",
     education: "CSBS 2nd Year Student",
     motto: "Code with purpose, build with passion"
 };
