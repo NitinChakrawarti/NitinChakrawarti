@@ -1,34 +1,29 @@
-<!-- Header with narrower, two-line typing SVGs -->
-<h1 align="center">
-  <img
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&center=true&vCenter=true&width=450&lines=Hey+👋+I%27m+Nitin+Chakrawarti"
-    alt="Typing SVG line 1"
-  />
-</h1>
-<h2 align="center">
-  <img
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&center=true&vCenter=true&width=450&lines=Full+Stack+|+Web3+|+Cloud+|+Next.js;Always+Building+and+Learning"
-    alt="Typing SVG line 2"
-  />
-</h2>
+# 💫 Nitin Chakrawarti
+
+<div align="center">
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%7C+Web3+Builder;MERN+%7C+Next.js+%7C+Cloud+Architect;Turning+Ideas+into+Digital+Reality)
 
 
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" />
-</p>
+![Dark Code](https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif)
 
----
+</div>
 
-### 🚀 About Me
+<hr>
 
-- 🔭 Full Stack Developer (MERN, Next.js)
-- ☁️ Cloud & Web3 Enthusiast
-- 🎓 CSBS 2nd-Year Student
-- 📫 Mail me at: **NitinChakrawarti04@gmail.com**
-- 💬 Pronouns: **He/Him**
-- 🌍 I love building for impact and innovation
+## <div align="center">🎯 **ABOUT ME**</div>
 
----
+```javascript
+const nitin = {
+    role: "Full Stack Developer",
+    focus: ["Web Development", "Web3", "Cloud Architecture"],
+    currentlyLearning: "Advanced System Design",
+    education: "CSBS 2nd Year Student",
+    motto: "Code with purpose, build with passion"
+};
+```
+
+<hr>
 
 ### 🔗 Let's Connect
 
