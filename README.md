@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%7C+Web3+Builder;MERN+%7C+Next.js+%7C+Cloud+Architect;Turning+Ideas+into+Digital+Reality)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%7C+Web3+Builder;MERN+%7C+Next.js+%7C+Cloud;Turning+Ideas+into+Digital+Reality)
 
 
 ![Dark Code](https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif)
@@ -16,9 +16,9 @@
 ```javascript
 let nitin = {
     role: "Full Stack Developer",
-    focus: ["Web Development", "Web3", "Cloud Architecture"],
+    focus: ["DevOps", "Web3", "Cloud"],
     currentlyLearning: "Cloud",
-    education: "CSBS 2nd Year Student",
+    education: "CSBS 3rd Year Student",
     motto: "Code with purpose, build with passion"
 };
 ```
